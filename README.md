@@ -7,6 +7,7 @@ We are happy to announce the release of Tailwind Traders. A fictitious retail co
 # New to Microsoft Azure?
 
 - Just a single line
+- Just another single line 😎
 
 You will need an Azure subscription to work with this demo code. You can:
 
